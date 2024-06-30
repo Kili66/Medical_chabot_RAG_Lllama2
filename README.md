@@ -15,3 +15,9 @@ conda activate metachatbot
 ```bash
 pip install -r requirements.txt
 ```
+
+#### Use Pinecone API
+####  Embedding model from Hugging Face: all-MiniLM-L6-v2 Usage (Sentence-Transformers)
+* This is a sentence-transformers model: It maps sentences & paragraphs to a 384 dimensional dense vector space and can be used for tasks like clustering or semantic search.
+* Create Pincone ENV 
+
